@@ -1,6 +1,6 @@
 //Program 1 for cerner_2^5_2020
 var Singleton = (function() {
-        //cerner_2^5_2020
+        // cerner_2^5_2020
         var instance
 
         function createInstance(x) {

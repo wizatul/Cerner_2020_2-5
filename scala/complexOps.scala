@@ -14,6 +14,7 @@ object complexOps extends Application {
                   (im * that.re - re * that.im) / denom)
     }
 	// cerner_2^5_2019
+    
     override def toString =
       re + (if (im < 0) "-" + (-im) else "+" + im) + "*i"
   }

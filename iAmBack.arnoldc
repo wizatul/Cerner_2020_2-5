@@ -1,0 +1,21 @@
+// Program for cerner_2^5_2020 
+// Astala vista code
+IT'S SHOWTIME
+	HEY CHRISTMAS TREE avgMoviesPerYear
+		YOU SET US UP @I LIED
+	HEY CHRISTMAS TREE totalMovies
+		YOU SET US UP 56
+	HEY CHRISTMAS TREE years
+		YOU SET US UP 46
+	GET TO THE CHOPPER avgMoviesPerYear
+		HERE IS MY INVITATION avgMoviesPerYear
+	GET UP totalMovies
+		HE HAD TO SPLIT years
+	// cerner_2^5_2020
+ENOUGH TALK
+	TALK TO THE HAND "Total Number of Movies done till date (2015 - via IMDB):"
+	TALK TO THE HAND totalMovies
+	TALK TO THE HAND "Avg Number of Movies/TV Shows Acted In Per Year, till date (2015 - via IMDB):"
+	TALK TO THE HAND avgMoviesPerYear
+	TALK TO THE HAND "Please note: The only variable type in ArnoldC is a 16bit integer. So the real average works out to be 1.2 movies per year"
+YOU HAVE BEEN TERMINATED

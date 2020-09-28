@@ -12,6 +12,7 @@ func GetManager() *manager {
     })
     return singleton
 }
+// cerner_2^5_2020
 func (sm *manager) GetState() string {
     return sm.state
 }

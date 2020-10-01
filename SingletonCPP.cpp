@@ -15,12 +15,8 @@ class SingletonCPP {
       instance = new SingletonCPP;
       return instance;
    }
-   int getData() {
-      return this -> data;
-   }
-   void setData(int data) {
-      this -> data = data;
-   }
+   int getData() { return this -> data; }
+   void setData(int data) { this -> data = data;  }
 };
 SingletonCPP *SingletonCPP::instance = 0;
 int main(){

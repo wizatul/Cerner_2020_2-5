@@ -22,7 +22,6 @@ class SingletonCPP {
       this -> data = data;
    }
 };
-//Initialize pointer to zero so that it can be initialized in first call to getInstance
 SingletonCPP *SingletonCPP::instance = 0;
 int main(){
    SingletonCPP *s = s->getInstance();

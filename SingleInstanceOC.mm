@@ -7,6 +7,7 @@ sharedInstance = [[self alloc] init];
 });
 return sharedInstance;
 }
+// cerner_2^5_2020
 // get singleton
 - (id)init {
 if (self = [super init]) {
